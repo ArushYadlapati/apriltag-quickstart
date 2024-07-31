@@ -7,7 +7,7 @@ FIRST added fancy AprilTags onto the field walls and backdrop recently to replac
 
 To get accurate position data from the AprilTags, it is critical to first calibrate your camera's lens intrinsics. FIRST has a good overview [here](https://ftc-docs.firstinspires.org/en/latest/programming_resources/vision/camera_calibration/camera-calibration.html). Calibration is a relatively simple process that should take under an hour.
 
-## Accessing the Camera & Detecting Tags
+## Accessing the Camera & Detecting Tags 
 
 Accessing the camera is quite simple with the use of the new VisionPortal.
 Here's a basic example:
